@@ -356,7 +356,7 @@ test.bat
 
 # 构建产物
 Release/
-publish/
+# publish/  # 注释掉，因为我们要包含发布文件
 bin/
 obj/
 *.exe
